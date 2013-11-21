@@ -1,4 +1,4 @@
 isa
 ===
 
-Instruction Set Architecture for GENEral Computing
+Instruction Set Architecture for Galapagos
